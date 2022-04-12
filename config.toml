@@ -7,11 +7,17 @@ enableInlineShortcodes = true
 pygmentsCodeFences = false
 pygmentsUseClasses = false
 
+relativeURLs = true
+
 [params]
   description = "Старые спутниковые снимки и аэрофотографии Алатыря, привязанные к карте."
 #  copyright = "Copyright © 2012 Your Name"
   dark = "off"
   highlight = false
+
+[sitemap]
+  changefreq = 'yearly'
+
 
 # [menu]
 #   [[menu.main]]
