@@ -1,0 +1,37 @@
+baseURL = 'https://alatyr.0xdc.ru'
+languageCode = 'ru-ru'
+title = 'Аэрофото и спутниковые снимки'
+
+theme = "etch"
+enableInlineShortcodes = true
+pygmentsCodeFences = false
+pygmentsUseClasses = false
+
+[params]
+  description = "Старые спутниковые снимки и аэрофотографии Алатыря, привязанные к карте."
+#  copyright = "Copyright © 2012 Your Name"
+  dark = "off"
+  highlight = false
+
+# [menu]
+#   [[menu.main]]
+#     identifier = "posts"
+#     name = "posts"
+#     title = "posts"
+#     url = "/"
+#     weight = 10
+
+#   [[menu.main]]
+#     identifier = "about"
+#     name = "about"
+#     title = "about"
+#     url = "/about/"
+#     weight = 20
+
+# [permalinks]
+#   posts = "/:title/"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
