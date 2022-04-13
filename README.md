@@ -9,7 +9,7 @@
 Требуемые для сборки зависимости:
 
 ```
-apt install curl imagemagick gdal-bin
+apt install curl imagemagick zstd gdal-bin
 ```
 
 GDAL должен быть версии не ниже `3.3.2`. Можно установить из `ppa:ubuntugis`.

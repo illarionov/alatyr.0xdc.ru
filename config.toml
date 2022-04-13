@@ -11,7 +11,7 @@ relativeURLs = true
 
 [params]
   description = "Старые спутниковые снимки и аэрофотографии Алатыря, привязанные к карте."
-#  copyright = "Copyright © 2012 Your Name"
+  # copyright = ""
   dark = "off"
   highlight = false
 

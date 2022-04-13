@@ -1,0 +1,24 @@
+http://earthexplorer.usgs.gov/metadata/4583/DZB00403100073H005001
+Entity ID   DZB00403100073H005001
+Acquisition Date  1966/08/21
+Mission Number 4031
+Frame Number   5
+NW Corner   55°01'55.20"N, 46°25'55.20"E (55.03200, 46.43200)
+NE Corner   55°00'54.00"N, 46°45'00.00"E (55.01500, 46.75000)
+SW Corner   54°39'54.00"N, 46°21'54.00"E (54.66500, 46.36500)
+SE Corner   54°37'55.20"N, 46°40'55.20"E (54.63200, 46.68200)
+Operations Number 00073
+Data Source Other
+Segment Count  1
+Camera Resolution 2 to 4 feet
+Camera Type KH-7 High Resolution Surveillance
+Image Type  Black and White
+Film Type   9 inch by variable
+Generation  3
+Polarity Negative
+Down Load Available  No
+
+http://en.wikipedia.org/wiki/KH-7
+
+http://gis-lab.info/qa/corona.html
+
