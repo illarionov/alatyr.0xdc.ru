@@ -19,9 +19,13 @@ build_1966:
 build_site:
 	hugo --minify
 
+
+.PHONY: clean_site
+clean_site:
+	rm -rf public
+
 .PHONY: clean
-clean:
-	rm -rf build
+clean: clean_site
 	$(MAKE) -C $(DIR1942) clean
 	$(MAKE) -C $(DIR1966) clean
 
