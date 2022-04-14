@@ -9,6 +9,8 @@ pygmentsUseClasses = false
 
 relativeURLs = true
 
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
 [params]
   description = "Старые спутниковые снимки и аэрофотографии Алатыря, привязанные к карте."
   # copyright = ""
